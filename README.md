@@ -6,7 +6,7 @@ Now everything can be done using cloud computation. From photo, programming, vid
 
 **Interface**
 
-        Home
+        **Home**
 ![image](https://user-images.githubusercontent.com/78086376/221812402-cbc6caf4-e2d1-4654-8ced-604aa374b261.png)
 
         Packages
