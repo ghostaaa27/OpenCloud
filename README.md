@@ -1,2 +1,4 @@
 # OpenCloud
-A cloud service providing platform.
+#A cloud service providing platform.#
+
+Now everything can be done using cloud computation. From photo,video editing to gaming, creating files in the cloud and using them as local files or programming to machine learning. Most of these services have a central server which used to do most of the work. But what if we can use every single computer from home computers to server computers to use as servers for those specific computations? That was our main target. But unfortunately for lack of our technical knowledge or resources we are just able to provide only just jupyter notebook service. Which is an open-source web application that allows to create and share documents that contain live code, equations, visualizations and narrative text Our goal is to make every pc as a server for different cloud computation. But in this software we have just used a jupyter notebook as a service and any pc with a dedicated ip address as a server.
