@@ -62,4 +62,6 @@ To reduce connecting and disconnecting overhead a connection pooling mechanism h
 
 
 
+This project is currently closed source. We may publish it in the future. The code can be viewed upon request.
+
 
